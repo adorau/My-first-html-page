@@ -1,0 +1,132 @@
+html,body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+  margin: 50px auto 50px auto;
+  line-height: 1;
+  padding-top: 100px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.635rem;
+  color: #68A7AD;
+
+}
+h2{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2rem;
+  color: #97C4B8;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.5rem;
+  color: #F9CEEE;
+  text-align: left;
+  position: relative;
+  left: 20px;
+}
+hr{border: 0;
+  border-top: 10px dotted #F9CEEE;
+  width: 33%;
+}
+a:hover{
+  color: #F9CEEE;
+}
+.author_footer{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1rem;
+}
+.author_photo{
+  padding-top: 50px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.author_footer{
+  text-align: center;
+  color: white;
+  padding-top: 100px;
+}
+.bottom-container{
+  background-color: #68A7AD;
+  margin: 0,0,0,0;
+  padding: 35px;
+  height: auto;
+}
+.bottom_cloud{
+  position: absolute;
+  right:  1600px;
+  top: 150px;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Quicksand', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #68A7AD;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 50px;
+  border-bottom: 50px;
+}
+.contact_image{
+  padding-bottom: 20px;
+}
+.div_button_cintact{
+  padding-top: 70px;
+  padding-bottom: 100px;
+}
+.div1{
+  background-color: #CCF3EE;
+  margin: 0px 0px 0px 0px;
+  padding: 20px;
+  height: auto;
+}
+.footer-link{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1rem;
+  color: #97C4B8;
+}
+.footer-link{
+  line-height: 2.5;
+  font-size: 1.5rem;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: #F9F3EE;
+  text-decoration: none;
+}
+.h3_contact_me{
+  text-align: center;
+  line-height: 0.5;
+}
+.mountain{
+  background-color: #CCF3EE;
+  width: 50%;
+  height: 50%;
+  margin-top: 50px;
+}
+.p_hello{
+  text-align: center;
+  padding-bottom: 20px;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 2
+}
+.skills_img{
+  float: left;
+}
+.skill_laser_img{
+  float: right;
+  margin-left: 20px;
+}
+.top_cloud{
+  position: absolute;
+  right: 500px;
+}
